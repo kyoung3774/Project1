@@ -7,6 +7,6 @@ public class HelloJava {
 		System.out.println("Hello, java");
 		System.out.println("name: BaeJooHwan");
 		
-		//수수정
+		//2024.06.21
 	}
 }
