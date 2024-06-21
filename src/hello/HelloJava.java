@@ -7,6 +7,6 @@ public class HelloJava {
 		System.out.println("Hello, java");
 		System.out.println("name: BaeJooHwan");
 		
-		//수정~
+		//수수정
 	}
 }
