@@ -4,7 +4,6 @@ public class HelloJava {
 
 	public static void main(String[] args) {
 		
-		//a
 		System.out.println("Hello, java");
 		System.out.println("name: BaeJooHwan");
 		
